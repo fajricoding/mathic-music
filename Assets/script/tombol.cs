@@ -17,14 +17,14 @@ public class tombol : MonoBehaviour
 
     }
     public void PindahSemua(string namaScene)
-    {    Debug.Log("PindahSemua dipanggil dengan scene: " + namaScene);
+    {    
         SceneManager.LoadScene(namaScene);
     }
 
     //animasi play
     public void scale(float scale)
     {
-         Debug.Log("Scale dipanggil dengan nilai: " + scale); // Menambahkan Debug.Log
+        
        
         transform.localScale = new Vector2(1 / scale, 1 * scale);
     }

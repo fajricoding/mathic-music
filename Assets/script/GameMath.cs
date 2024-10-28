@@ -65,6 +65,7 @@ public class GameMath : MonoBehaviour {
                 feed_benar.SetActive(true);
                 feed_salah.SetActive(false);
             } else {
+                skor -= 10;
                 feed_benar.SetActive(false);
                 feed_salah.SetActive(true);
             }
