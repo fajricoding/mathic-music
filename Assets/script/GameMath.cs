@@ -19,7 +19,7 @@ public class GameMath : MonoBehaviour {
     public string[] pilihan1, pilihan2, pilihan3, pilihan4;
 
     // Feedback dan skor
-    public GameObject feed_benar, feed_salah, selesai, bank_soal;
+    public GameObject feed_benar, feed_salah, selesai, pertanyaan, pernyataan,next;
     int urutan_soal = -1, skor = 0;
 
     // Start is called before the first frame update
@@ -53,7 +53,10 @@ public class GameMath : MonoBehaviour {
         } else {
             // Jika soal habis, tampilkan pesan selesai
             selesai.SetActive(true);
-            bank_soal.SetActive(false);
+            pernyataan.SetActive(false);
+            pertanyaan.SetActive(false);
+            next.SetActive(true);
+
         }
     }
 
