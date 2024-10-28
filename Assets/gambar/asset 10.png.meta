@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e4f5690f7e73350419b70eab572650e5
+guid: bbb57616c87a0c04a844e2c00f672ed6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1172af711b01934d9a7a8aaedf1b4bc
-      internalID: -1177927803
+      spriteID: 1a92603537d1b5f40a6ced61274e840a
+      internalID: 13975004
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a8e8cc91913b94b8564e23ddc6b64f
-      internalID: -741388382
+      spriteID: 55defa3ba4008bd499e447daa8542ded
+      internalID: -939636604
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c1f5c03e6fb500409107358225a05a8
-      internalID: -1028634551
+      spriteID: 6b92ea3c0ecedf34bb9f8fe0fe7c49fa
+      internalID: -1455402570
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d27aa400c26ef24ebaf9d750caf4af1
-      internalID: 566603377
+      spriteID: 3730f2670e024054e83521663dde6550
+      internalID: 1523617746
       vertices: []
       indices: 
       edges: []
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dd2660a298e9a440a40ce66b7b01c1b
-      internalID: -1089753484
+      spriteID: 03a8a0c1c02bed94bbb6fad67f31c205
+      internalID: -211387396
       vertices: []
       indices: 
       edges: []
@@ -212,11 +212,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      asset 10_0: -1177927803
-      asset 10_1: -741388382
-      asset 10_2: -1028634551
-      asset 10_3: 566603377
-      asset 10_4: -1089753484
+      asset 10_0: 13975004
+      asset 10_1: -939636604
+      asset 10_2: -1455402570
+      asset 10_3: 1523617746
+      asset 10_4: -211387396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
